@@ -1,0 +1,25 @@
+body {
+  background-image: url('http://previews.123rf.com/images/benchart/benchart1111/benchart111100426/11248988-Illustration-of-a-summer-sunny-beach-poster-background-horizon-over-water-and-sailboats-Stock-Vector.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#temperature {
+  text-align: center;
+  font-size: 10em;
+  font-family: helvetica,arial;
+}
+
+#sun {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: yellow;
+  position: absolute;
+}
+
+#horizon {
+  /*border-bottom: 1px solid red;*/
+  height: 64vh;
+  position: relative;
+}
